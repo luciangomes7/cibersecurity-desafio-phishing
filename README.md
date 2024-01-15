@@ -1,5 +1,8 @@
 # Phishing para captura 
 
+Desafio de segurança do curso da DIO que consta em utilizar a ferramenta para exibir uma página falsa e captura os dados do usuário, aplicando assim a técnica de phishing.
+A atividade foi realizad de duas maneiras, a primeira executando um clone de um site e a segunda utilizando o template pronto da ferramenta.
+
 ## Ferramentas
 
 - Kali Linux
