@@ -16,9 +16,9 @@
 - - Webattack: ``` local host ```
 - URL para clone: http://www.facebook.com ou http://127.0.0.1
 
-### Resutados
+### Resutado 1
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./face_setoolkit.png "Optional title")
 
 
 ## Configurando o Phishing no Kali Linux para Web
@@ -32,3 +32,7 @@
 - Webattack: ``` local host ```
 - Template: ``` Twitter ```
 - URL para clone: http://www.twitter.com ou http://127.0.0.1
+
+### Resutado 2
+
+![Alt text](./tt_setoolkit.png "Optional title")
